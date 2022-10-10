@@ -1,0 +1,38 @@
+
+body {
+	background-color: Lightblue;
+	Margin: 50px;
+	
+	
+}
+.pages{
+    text-align: right;
+	padding: 40px;
+	margin: 50px;
+	word-spacing: 30px;
+	text-decoration: none;
+	font-size: 18px;
+	display: block;
+	
+}
+.form1{
+	 text-align: center;
+	 margin-top: 100px;
+}
+
+}
+.field {
+       background-color: none;
+	   color: white;
+	   text-decoration: none;
+	   display: inline;
+	   border: none;
+	   margin-left: 400px;
+	    
+}
+.button1{
+	 text-align: center;
+	 margin-left: 400px;
+	 background-color: blue;
+	 border: none;
+}
